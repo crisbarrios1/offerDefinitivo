@@ -1,0 +1,19 @@
+* {
+  margin:0;
+}
+
+.app{
+  background-image: url('https://i.ibb.co/Ks0zP4X/Fondo-SVG6.png');
+ height: 100vh;
+}
+
+.app__headerImage{
+  padding: 20px;
+  object-fit: contain;
+}
+
+.app__signUp{
+  display: flex;
+  flex-direction: column;
+}
+
